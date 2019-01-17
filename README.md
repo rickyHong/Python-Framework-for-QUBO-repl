@@ -1,6 +1,7 @@
-![wildqat](MDR_Wildqat.png)
+Sorry Wildqat is now deprecated. Please use from blueqat import opt instead.
+https://github.com/mdrft/Blueqat
 
-Wildqat Python SDK
+Wildqat Python SDKhttps://github.com/mdrft/Blueqat
 --------
 Python Framework for QUBO 
 
