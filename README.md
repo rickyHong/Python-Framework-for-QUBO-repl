@@ -1,7 +1,7 @@
-Sorry Wildqat is now deprecated. Please use from blueqat import opt instead.
+Sorry Wildqat is now deprecated. Please use from blueqat import opt instead.  
 https://github.com/mdrft/Blueqat
 
-Wildqat Python SDKhttps://github.com/mdrft/Blueqat
+Wildqat Python SDK
 --------
 Python Framework for QUBO 
 
