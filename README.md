@@ -1,4 +1,4 @@
-Sorry Wildqat is now deprecated. Please use from blueqat import opt instead.  
+Sorry Wildqat is now deprecated. Please use Blueqat and "from blueqat import opt" instead.  
 https://github.com/mdrft/Blueqat
 
 Wildqat Python SDK
